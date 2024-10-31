@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="build001.OrangeHrm">
+        <methods>
+          <include name="loggingout"/>
+          <include name="SetupSuite"/>
+          <include name="closing_browser"/>
+          <include name="jobtitle"/>
+          <include name="pagecleanup"/>
+          <include name="ClosingSuite"/>
+          <include name="opens_Browser"/>
+          <include name="login"/>
+          <include name="Add_Employee"/>
+          <include name="paygrades"/>
+          <include name="Work_Shift"/>
+          <include name="Employ_Status"/>
+          <include name="Job_Categories"/>
+          <include name="pageloading"/>
+        </methods>
+      </class> <!-- build001.OrangeHrm -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

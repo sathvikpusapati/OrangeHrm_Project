@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-31T13:44:44 IST" name="Default suite" finished-at="2024-10-31T13:48:34 IST" duration-ms="230119">
+    <groups>
+    </groups>
+    <test started-at="2024-10-31T13:44:44 IST" name="Default test" finished-at="2024-10-31T13:48:34 IST" duration-ms="230119">
+      <class name="build001.OrangeHrm">
+        <test-method is-config="true" signature="SetupSuite()[pri:0, instance:build001.OrangeHrm@45c7e403]" started-at="2024-10-31T13:44:44 IST" name="SetupSuite" finished-at="2024-10-31T13:44:44 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupSuite -->
+        <test-method is-config="true" signature="opens_Browser()[pri:0, instance:build001.OrangeHrm@45c7e403]" started-at="2024-10-31T13:44:44 IST" name="opens_Browser" finished-at="2024-10-31T13:44:47 IST" duration-ms="2489" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- opens_Browser -->
+        <test-method is-config="true" signature="pageloading()[pri:0, instance:build001.OrangeHrm@45c7e403]" started-at="2024-10-31T13:44:47 IST" name="pageloading" finished-at="2024-10-31T13:44:53 IST" duration-ms="5809" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageloading -->
+        <test-method is-config="true" signature="login()[pri:0, instance:build001.OrangeHrm@45c7e403]" started-at="2024-10-31T13:44:53 IST" name="login" finished-at="2024-10-31T13:44:57 IST" duration-ms="4749" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="jobtitle()[pri:1, instance:build001.OrangeHrm@45c7e403]" started-at="2024-10-31T13:44:57 IST" name="jobtitle" finished-at="2024-10-31T13:45:17 IST" duration-ms="19273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jobtitle -->
+        <test-method is-config="true" signature="loggingout()[pri:0, instance:build001.OrangeHrm@45c7e403]" started-at="2024-10-31T13:45:17 IST" name="loggingout" finished-at="2024-10-31T13:45:18 IST" duration-ms="1258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loggingout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:build001.OrangeHrm@45c7e403]" started-at="2024-10-31T13:45:18 IST" name="login" finished-at="2024-10-31T13:45:19 IST" duration-ms="1458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="paygrades()[pri:2, instance:build001.OrangeHrm@45c7e403]" started-at="2024-10-31T13:45:19 IST" name="paygrades" finished-at="2024-10-31T13:45:49 IST" duration-ms="29357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- paygrades -->
+        <test-method is-config="true" signature="loggingout()[pri:0, instance:build001.OrangeHrm@45c7e403]" started-at="2024-10-31T13:45:49 IST" name="loggingout" finished-at="2024-10-31T13:45:50 IST" duration-ms="1287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loggingout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:build001.OrangeHrm@45c7e403]" started-at="2024-10-31T13:45:50 IST" name="login" finished-at="2024-10-31T13:45:52 IST" duration-ms="1962" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="Employ_Status()[pri:3, instance:build001.OrangeHrm@45c7e403]" started-at="2024-10-31T13:45:52 IST" name="Employ_Status" finished-at="2024-10-31T13:46:02 IST" duration-ms="9966" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Employ_Status -->
+        <test-method is-config="true" signature="loggingout()[pri:0, instance:build001.OrangeHrm@45c7e403]" started-at="2024-10-31T13:46:02 IST" name="loggingout" finished-at="2024-10-31T13:46:03 IST" duration-ms="1256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loggingout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:build001.OrangeHrm@45c7e403]" started-at="2024-10-31T13:46:03 IST" name="login" finished-at="2024-10-31T13:46:05 IST" duration-ms="1525" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="Job_Categories()[pri:4, instance:build001.OrangeHrm@45c7e403]" started-at="2024-10-31T13:46:05 IST" name="Job_Categories" finished-at="2024-10-31T13:46:12 IST" duration-ms="7753" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Job_Categories -->
+        <test-method is-config="true" signature="loggingout()[pri:0, instance:build001.OrangeHrm@45c7e403]" started-at="2024-10-31T13:46:12 IST" name="loggingout" finished-at="2024-10-31T13:46:14 IST" duration-ms="1239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loggingout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:build001.OrangeHrm@45c7e403]" started-at="2024-10-31T13:46:14 IST" name="login" finished-at="2024-10-31T13:46:15 IST" duration-ms="1788" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="Add_Employee()[pri:5, instance:build001.OrangeHrm@45c7e403]" started-at="2024-10-31T13:46:15 IST" name="Add_Employee" finished-at="2024-10-31T13:48:07 IST" duration-ms="111673" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Add_Employee -->
+        <test-method is-config="true" signature="loggingout()[pri:0, instance:build001.OrangeHrm@45c7e403]" started-at="2024-10-31T13:48:07 IST" name="loggingout" finished-at="2024-10-31T13:48:08 IST" duration-ms="1257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loggingout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:build001.OrangeHrm@45c7e403]" started-at="2024-10-31T13:48:08 IST" name="login" finished-at="2024-10-31T13:48:10 IST" duration-ms="1429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="Work_Shift()[pri:6, instance:build001.OrangeHrm@45c7e403]" started-at="2024-10-31T13:48:10 IST" name="Work_Shift" finished-at="2024-10-31T13:48:33 IST" duration-ms="22859" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Work_Shift -->
+        <test-method is-config="true" signature="loggingout()[pri:0, instance:build001.OrangeHrm@45c7e403]" started-at="2024-10-31T13:48:33 IST" name="loggingout" finished-at="2024-10-31T13:48:34 IST" duration-ms="1320" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loggingout -->
+        <test-method is-config="true" signature="closing_browser()[pri:0, instance:build001.OrangeHrm@45c7e403]" started-at="2024-10-31T13:48:34 IST" name="closing_browser" finished-at="2024-10-31T13:48:34 IST" duration-ms="377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closing_browser -->
+        <test-method is-config="true" signature="pagecleanup()[pri:0, instance:build001.OrangeHrm@45c7e403]" started-at="2024-10-31T13:48:34 IST" name="pagecleanup" finished-at="2024-10-31T13:48:34 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pagecleanup -->
+        <test-method is-config="true" signature="ClosingSuite()[pri:0, instance:build001.OrangeHrm@45c7e403]" started-at="2024-10-31T13:48:34 IST" name="ClosingSuite" finished-at="2024-10-31T13:48:34 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClosingSuite -->
+      </class> <!-- build001.OrangeHrm -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
